@@ -1,4 +1,4 @@
-# Two-Link Manipulator Control
+# controlling N link serial planar manipulator
 
 ## Project Overview
 This project focuses on modeling and controlling a two-link manipulator using system dynamics and control techniques. The system consists of two connected masses, where the goal is to move the joint angles from an initial position to a desired position using different control strategies.
